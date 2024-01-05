@@ -50,3 +50,32 @@ background-size: cover;
     background-size: cover;
 
 }
+.block{
+    height: 70px;
+    width: 70px;
+    /* border: 2px solid black; */
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 60px;
+    
+}
+.block{
+    background-image: url("https://freepngimg.com/thumb/emoji/47416-2-smiley-image-free-png-hq-thumb.png");
+    background-size: cover;
+}
+#id-1:hover{
+    background-image: url("https://freepngimg.com/thumb/emoji/3-2-love-hearts-eyes-emoji-png-thumb.png");
+    background-size: cover;
+}
+#id-2:hover{
+    background-image: url("https://freepngimg.com/thumb/emoji/5-2-face-with-tears-of-joy-emoji-png-thumb.png");
+    background-size: cover;
+}
+#id-3:hover{
+    background-image: url("https://freepngimg.com/thumb/emoji/4-2-smiling-face-with-sunglasses-cool-emoji-png-thumb.png");
+    background-size: cover;
+}
+#id-4:hover{
+    background-image: url("https://freepngimg.com/thumb/emoji/1-2-wink-emoji-png-thumb.png");
+    background-size: cover;
+}
