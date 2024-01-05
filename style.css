@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.main{
+    background-image: url("https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    padding-top: 10px;
+}
+input{
+    margin-right: 40px;
+    padding: 0px;
+}
+.content{
+    margin-top: 20px;
+    border: 2px solid red;
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    margin-top: 30px
+}
+
+#pushpa:checked~.content{
+background-image: url("https://imgs.search.brave.com/wWnK5Vgzc2_vmVMVphKFuyy3alkfGq7grP8Sam_dv7s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QllXRTVaRFpp/Tm1ZdFpqSTBNaTAw/TURZMExXSmtNbU10/WVdVMk1qY3lORE5p/WmpBNFhrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn");
+background-size: cover;
+}
+#RRR:checked~.content{
+    background-image: url("https://imgs.search.brave.com/g9MvW4X_5lUZgzUIL8Y3-ldou3neze-sZHgMYMQf9oo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iZWxj/b3VydC1wcm9kdWN0/aW9uLnMzLmFtYXpv/bmF3cy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMDUv/MDkxMzM1MTAvUlJS/LXdlYi5qcGc");
+    background-size: cover;
+
+}
+
+#Salaar:checked~.content{
+    background-image: url("https://imgs.search.brave.com/N7gio5wVQQe7kgz6lDzSDLwso87cS6cm-C_X39dJHXM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVjY2FuY2hyb25p/Y2xlLmNvbS9fbmV4/dC9pbWFnZT91cmw9/aHR0cHM6Ly9zMy5h/cC1zb3V0aGVhc3Qt/MS5hbWF6b25hd3Mu/Y29tL2ltYWdlcy5k/ZWNjYW5jaHJvbmlj/bGUuY29tL2RjLUNv/dmVyLXMyb3U0Nmhx/OTBxZWhwcHBycW9l/a2xhMWozLTIwMjMx/MjIzMTIxNzQyLk1l/ZGkuanBlZyZ3PTM4/NDAmcT03NQ");
+    background-size: cover;
+
+}
+
+#animal:checked~.content{
+    background-image: url("https://imgs.search.brave.com/W9cQRoePAQi3RJmu47AIoQOBsv2_gZ32YPZjtEu_9YQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bWV0YWNyaXRpYy5j/b20vYS9pbWcvY2F0/YWxvZy9wcm92aWRl/ci83LzIvNy0xNzAy/MDY3ODUyLmpwZw");
+    background-size: cover;
+
+}
+
+#Leo:checked~.content{
+    background-image: url("https://imgs.search.brave.com/pcHu0UE0TfAlGpGagrI-qY9V9Li6zvZYZd6lY0oPoMs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/My8xMC9MZW8tYmxv/Zy0xMjAwLmpwZz93/PTc1MA");
+    background-size: cover;
+
+}
